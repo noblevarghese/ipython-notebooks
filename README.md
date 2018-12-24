@@ -5,7 +5,7 @@ Technically we can query Windows defender ATP raw events/base events using its a
  
 In general 'Advanced Hunting' feature is available inside defender ATP portal and you need to login to the ATP portal every time you want to query additional data sets. If you want to collect these raw events/base events outside defender ATP, use their Advanced Hunting APIs to achieve the same.
  
-Here we've used Jupyter Notebook and Windows Defender Advanced Hunting API to query the data. You can do anything with data but below are the use cases I had in my mind.
+Here, we've used Jupyter Notebook and Windows Defender Advanced Hunting API to query the data. You can do anything with data but below are the use cases I had in my mind.
  
 - On board and schedule additional detection outside ATP.
 - Perform joins with existing data sets available outside ATP portal.
