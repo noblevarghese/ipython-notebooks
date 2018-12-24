@@ -13,3 +13,5 @@ Here, we've used Jupyter Notebook and Windows Defender Advanced Hunting API to q
 - Build charts, Graphs and visualize the data using other tools.
  
 You can use the same python code outside Jupyter notebook as well. Happy Hunting!
+
+https://github.com/pratik-lal/Windows-Defender-ATP/blob/master/ATP_Advanced_Hunting.ipynb
