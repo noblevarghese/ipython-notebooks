@@ -1,4 +1,4 @@
-# Windows Defender ATP
+# Defender ATP Advanced Hunting with Jupyter Notebook
 Jupyter notebook, Python Code
 
 Technically we can query Windows defender ATP raw events/base events using its advanced hunting feature. This feature comes pretty handy when we want to dissect and interpret interesting information, perform manual hunt for IOCs, IOAs, attack vectors and write custom detections.
